@@ -31,7 +31,7 @@ export const profile = {
     github: "https://github.com/farhantaufikrahman",
     linkedin: "https://www.linkedin.com/in/farhan-taufik-rahman/",
   },
-  siteUrl: "https://portfolio.vzkyrielight.my.id",
+  siteUrl: "https://portfolio.vzkyrielight.xyz",
 };
 
 /* ───────────────────────── Featured project ───────────────────────── */
