@@ -582,7 +582,7 @@ export const certifications: {
     issuer: "Adinusa",
     date: "Oct 2026",
     credential:
-      "https://www.credly.com/badges/69c08758-c4b9-4bf1-9ab9-d507a00b7952/linked_in_profile/",
+      "https://adinusa.id/course/publisher/show/817b2acf-e87b-40ac-9e51-0c88a0f5b490/",
   }, // TODO
   {
     name: "DevOps, AWS Cloud Administrator",
